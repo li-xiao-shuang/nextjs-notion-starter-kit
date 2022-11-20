@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '晓双 Blog',
-  domain: 'xiaoshuang.it',
+  domain: 'xiaoshuang.fun',
   author: '晓双',
 
   // open graph metadata (optional)
